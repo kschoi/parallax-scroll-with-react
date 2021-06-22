@@ -13,5 +13,7 @@
     "sourceType": "module"
   },
   "plugins": ["react", "prettier"],
-  "rules": {}
+  "rules": {
+    "no-unused-vars": 1
+  }
 }
